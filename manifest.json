@@ -1,0 +1,9 @@
+{
+    "name": "pwa-app",
+    "short_name": "pwa-app",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/pwa-app",
+    "start_url": "/pwa-app"
+  }
