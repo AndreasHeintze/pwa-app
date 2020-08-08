@@ -1,10 +1,11 @@
 {
 	"background_color": "#ffffff",
 	"theme_color": "#333333",
-	"name": "TODO",
-	"short_name": "TODO",
-	"display": "minimal-ui",
-	"start_url": "/",
+	"name": "pwa-app",
+	"short_name": "pwa-app",
+    "display": "standalone",
+    "scope": "/pwa-app",
+    "start_url": "/pwa-app",
 	"icons": [
 		{
 			"src": "logo-192.png",
